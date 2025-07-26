@@ -1,0 +1,1 @@
+odin-recipes site is the final project in Odin HTML basics curriculum.
